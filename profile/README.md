@@ -1,5 +1,7 @@
 # BetterSchool Project
 
+![Cover](https://user-images.githubusercontent.com/62578958/178498117-79ab4b4e-a013-409c-ad67-b180907d614b.png)
+
 Since the close of Xiaoheiban (晓黑板), schools need a new school-family contact application.
 BetterSchool is such an application that can enable us to chat with our teacher / students.
 
